@@ -1,0 +1,2 @@
+# ManualGetCircleBitmap
+根据本地或者拍照的大图，手动获取选中区域的圆形图像作为新图像
